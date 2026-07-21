@@ -1,13 +1,13 @@
 source: https://docs.evokoa.com/polygres/cli/command-reference
 title: CLI command reference | Polygres
-source_hash: e13b7d328390243dfc4dec034168b4586e1cb8db3fcf1f42272750b7fa9ce816
+source_hash: 6328f33828389a976dc5816009b74ef875abf708dcbab22d984a13b61caa8320
 discovered_from: https://docs.evokoa.com/polygres
 
 # CLI command reference | Polygres
 
 Command reference
 
-This is the public command surface verified against the PyPI polygres-cli 0.1.0 wheel.
+This is the public command surface verified against the PyPI polygres-cli 0.1.2 wheel.
 
 Area Commands
 

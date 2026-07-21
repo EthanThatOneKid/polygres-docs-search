@@ -1,6 +1,6 @@
 source: https://docs.evokoa.com/polygres/platform/load-and-manage-data
 title: Load and manage data | Polygres
-source_hash: 15029c66e721304637d308d6f29ebd5aaf6c8310c0dfca8cfbb123ae80db7327
+source_hash: f1939bf50d213b2dda8e61f8f58ba7464ce5a63679e65a8d68b3008b41bc8673
 discovered_from: https://docs.evokoa.com/polygres
 
 # Load and manage data | Polygres
@@ -113,7 +113,7 @@ Start the import and monitor it in Import history .
 
 Review inferred types before importing. An identifier with leading zeros, a mixed-format date column, or a mostly empty field can be inferred differently from what the application expects. For append mode, each source column must map to a compatible destination column.
 
-Only one import can be active for a project at a time.
+Import admission is limited by the project’s applied tier. Current tier records allow up to three queued or running jobs per project, although a deployment can expose a lower effective limit. Check GET /tiers and Import history before starting parallel work.
 
 Import a SQL file
 
