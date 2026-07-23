@@ -38,7 +38,7 @@
       "url": "https://docs.evokoa.com/polygres/getting-started/key-concepts",
       "title": "Key concepts | Polygres",
       "path": "polygres/getting-started/key-concepts.md",
-      "sha256": "a4c14af34cd526d6af31673d52a7d1e80b5be883f4f522dbf0bd10a69a6315cd",
+      "sha256": "bf4193a774f9b83cc8fc6b4523549eb467a4bcd386b33a8316bd1cc24baa766c",
       "discovered_from": "https://docs.evokoa.com/polygres"
     },
     {
@@ -52,7 +52,7 @@
       "url": "https://docs.evokoa.com/polygres/getting-started/common-use-cases",
       "title": "Common use cases | Polygres",
       "path": "polygres/getting-started/common-use-cases.md",
-      "sha256": "d3797020db527eec52b529e56a84e18c529287b97b8b191e4b7c2c4494eaa842",
+      "sha256": "a434e4c06fd0128880d4450bced2383d467d3c8a0231185b64275c53df74d271",
       "discovered_from": "https://docs.evokoa.com/polygres"
     },
     {
@@ -150,7 +150,7 @@
       "url": "https://docs.evokoa.com/polygres/cli/graph",
       "title": "CLI graph retrieval | Polygres",
       "path": "polygres/cli/graph.md",
-      "sha256": "5242e7ef1e2926a86fda361de0a25c08b3e511583726f20e81953d2bf3e86605",
+      "sha256": "68484e511ff8c3553f783b6969d05790b511039bf03fd237bf2e0f5ce78a5fda",
       "discovered_from": "https://docs.evokoa.com/polygres"
     },
     {
