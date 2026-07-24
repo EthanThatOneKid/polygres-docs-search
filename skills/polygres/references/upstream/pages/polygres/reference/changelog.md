@@ -1,6 +1,6 @@
 source: https://docs.evokoa.com/polygres/reference/changelog
 title: Changelog | Polygres
-source_hash: eed47f29459ea4d773fe37b2ae3c9581ec84d6ef604ac3ab6bd21f05998421f2
+source_hash: 55a872714fc219572aee18d7528e890275bc2e34416b4fd6674a624d428d63de
 discovered_from: https://docs.evokoa.com/polygres
 
 # Changelog | Polygres
